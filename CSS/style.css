@@ -1,0 +1,722 @@
+.parent {
+  color: gray;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  position: relative;
+}
+.parent div {
+  display: flex;
+}
+.child {
+  padding: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: right;
+  position: relative;
+  right: 30px;
+}
+.png {
+  width: 80px;
+  height: 40px;
+  position: relative;
+  left: 50px;
+}
+
+.parent1 {
+  position: relative;
+}
+.jpg1 {
+  width: 50%;
+  margin: 100px 0 0 auto;
+  position: relative;
+  bottom: 100px;
+  right: 50px;
+}
+.jpg2 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.parent2 {
+  position: relative;
+  color: #c71585;
+  display: flex;
+  font-family: Indie Flower;
+}
+
+.child6 {
+  font-size: 50px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  position: relative;
+  bottom: 500px;
+  left: 200px;
+  text-align: left;
+}
+.child7 {
+  font-size: 40px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  position: relative;
+  bottom: 500px;
+  left: 310px;
+  text-align: left;
+}
+.child8 {
+  font-size: 20px;
+  font-family: "Gorditas", cursive;
+  font-weight: bold;
+  position: relative;
+  bottom: 420px;
+  left: 250px;
+  text-align: left;
+}
+.child9 {
+  color: gray;
+  display: flex;
+  padding: 20px;
+  font-weight: lighter;
+  font-size: 15px;
+  position: relative;
+  bottom: 450px;
+  left: 250px;
+  text-align: left;
+}
+.child10 {
+  color: #20b2aa;
+  font-size: 50px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  position: relative;
+  bottom: 350px;
+  left: 50px;
+  text-align: left;
+}
+.child11 {
+  color: #20b2aa;
+  font-size: 20px;
+  font-family: "Gorditas", cursive;
+  font-weight: bold;
+  position: relative;
+  bottom: 60px;
+  right: 370px;
+  text-align: left;
+}
+
+.parent3 {
+  position: relative;
+}
+
+.child12 {
+  color: #c71585;
+  font-size: 15px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  position: relative;
+  bottom: 430px;
+  left: 300px;
+  text-align: left;
+}
+.child13 {
+  color: gray;
+  font-size: 25px;
+  font-family: "Gorditas", cursive;
+  font-weight: bold;
+  position: relative;
+  bottom: 450px;
+  left: 300px;
+  text-align: left;
+}
+
+.parent4 {
+  position: relative;
+}
+.sen1 {
+  border-bottom: 1px solid gray;
+  position: relative;
+  bottom: 450px;
+  left: 300px;
+}
+.sen2 {
+  border-bottom: 1px solid gray;
+  position: relative;
+  bottom: 65px;
+  left: 300px;
+}
+
+.parent5 {
+  color: gray;
+  font-size: 20px;
+  position: relative;
+}
+
+li {
+  list-style: none;
+  padding: 16px;
+  margin: 8px;
+  position: relative;
+  bottom: 450px;
+  left: 250px;
+}
+
+.parent6 {
+  display: flex;
+  position: relative;
+}
+.botan {
+  color: #fff;
+  background-color: #c71585;
+  border-radius: 100vh;
+  list-style: none;
+  padding: 16px;
+  margin: 8px;
+  display: flex;
+  position: relative;
+  bottom: 800px;
+  left: 500px;
+}
+
+.parent7 {
+  position: relative;
+}
+.child14 {
+  color: #c71585;
+  font-size: 15px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 900px;
+  left: 100px;
+  text-align: center;
+}
+.child15 {
+  color: gray;
+  font-size: 20px;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 900px;
+  left: 100px;
+  text-align: center;
+}
+.child16 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 800px;
+  left: 300px;
+  text-align: left;
+}
+.png3 {
+  z-index: 20;
+  position: relative;
+  bottom: 600px;
+  right: 50px;
+  text-align: right;
+}
+.child17 {
+  background-color: #dcdcdc;
+  height: 350px;
+  z-index: 5;
+  position: relative;
+  bottom: 1150px;
+  left: 50px;
+  text-align: center;
+}
+.parent8 {
+  position: relative;
+}
+.sen3 {
+  border-bottom: 1px double #dcdcdc;
+  position: relative;
+  bottom: 1795px;
+  left: 300px;
+}
+.sen4 {
+  border-bottom: 1px double #dcdcdc;
+  position: relative;
+  bottom: 1730px;
+  left: 300px;
+}
+.sen5 {
+  border-bottom: 1px double #dcdcdc;
+  position: relative;
+  bottom: 1668px;
+  left: 300px;
+}
+.sen6 {
+  border-bottom: 1px double #dcdcdc;
+  position: relative;
+  bottom: 1605px;
+  left: 300px;
+}
+.sen7 {
+  border-bottom: 1px double #dcdcdc;
+  position: relative;
+  bottom: 1530px;
+  left: 300px;
+}
+.parent9 {
+  position: relative;
+}
+.child18 {
+  color: #c71585;
+  font-size: 15px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 1150px;
+  right: 300px;
+  text-align: center;
+}
+.child19 {
+  color: gray;
+  font-size: 20px;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 1140px;
+  right: 270px;
+  text-align: center;
+}
+.child20 {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 950px;
+  right: 145px;
+  text-align: center;
+}
+.child21 {
+  color: white;
+  font-size: 15px;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 930px;
+  right: 130px;
+  text-align: center;
+}
+.child22 {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 1150px;
+  right: 330px;
+  text-align: right;
+}
+.child23 {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 1000px;
+  right: 330px;
+  text-align: right;
+}
+.child24 {
+  color: white;
+  font-size: 15px;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 1150px;
+  right: 110px;
+  text-align: right;
+}
+.child25 {
+  color: white;
+  font-size: 15px;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 1050px;
+  right: 110px;
+  text-align: right;
+}
+.child26 {
+  background-color: #c71585;
+  height: 350px;
+  width: 400px;
+  z-index: 5;
+  position: relative;
+  bottom: 1390px;
+  left: 300px;
+  text-align: center;
+}
+.child27 {
+  background-color: #db7093;
+  height: 175px;
+  width: 450px;
+  z-index: 5;
+  position: relative;
+  bottom: 1740px;
+  left: 700px;
+  text-align: right;
+}
+.child28 {
+  background-color: #f08080;
+  height: 175px;
+  width: 450px;
+  z-index: 5;
+  position: relative;
+  bottom: 1740px;
+  left: 700px;
+  text-align: right;
+}
+.svg1::before {
+  content: "";
+  background: url(../img/service__first.svg);
+  background-size: cover;
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  z-index: 20;
+  position: relative;
+  bottom: 2080px;
+  left: 400px;
+  text-align: left;
+}
+.svg2::before {
+  content: "";
+  background: url(../img/service__first.svg);
+  background-size: cover;
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  z-index: 20;
+  position: relative;
+  bottom: 2220px;
+  left: 710px;
+  text-align: right;
+}
+.svg3::before {
+  content: "";
+  background: url(../img/service__first.svg);
+  background-size: cover;
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  z-index: 20;
+  position: relative;
+  bottom: 2210px;
+  left: 710px;
+  text-align: right;
+}
+
+.parent10 {
+  position: relative;
+}
+.child29 {
+  background-color: #dcdcdc;
+  height: 500px;
+  width: 1100px;
+  z-index: 5;
+  position: relative;
+  bottom: 2000px;
+  left: 150px;
+  text-align: center;
+}
+.child30 {
+  color: #c71585;
+  font-size: 15px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 2490px;
+  right: 300px;
+  text-align: center;
+}
+.child31 {
+  color: gray;
+  font-size: 20px;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 2490px;
+  right: 285px;
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: 0 auto;
+  position: relative;
+  bottom: 2480px;
+  left: 100px;
+  text-align: center;
+  z-index: 20;
+}
+img {
+  width: 250px;
+  height: auto;
+}
+.card {
+  width: 30%;
+  cursor: pointer;
+  border: 1px solid #e9eaea;
+  border-radius: 3px;
+}
+.text-box {
+  padding: 10px;
+}
+.content-img {
+  padding: 10px 0;
+  text-align: center;
+  background: white;
+}
+.date {
+  font-size: 12px;
+  margin-top: 5px;
+}
+.botan1 {
+  display: flex;
+  position: relative;
+  color: #fff;
+  background-color: #c71585;
+  border-radius: 100vh;
+  list-style: none;
+  padding: 16px;
+  margin: 8px;
+  display: flex;
+  position: relative;
+  bottom: 330px;
+  right: 620px;
+  text-align: center;
+}
+.botan2 {
+  display: flex;
+  position: relative;
+  color: #fff;
+  background-color: #c71585;
+  border-radius: 100vh;
+  list-style: none;
+  padding: 16px;
+  margin: 8px;
+  display: flex;
+  position: relative;
+  bottom: 385px;
+  right: 350px;
+  text-align: center;
+}
+.botan3 {
+  display: flex;
+  position: relative;
+  color: #fff;
+  background-color: #c71585;
+  border-radius: 100vh;
+  list-style: none;
+  padding: 16px;
+  margin: 8px;
+  display: flex;
+  position: relative;
+  bottom: 450px;
+  right: 20px;
+  text-align: right;
+}
+a.btn-border {
+  padding: 1.5rem 4rem;
+  border: 3px solid #c71585;
+  color: #c71585;
+  border-radius: 0;
+  border-radius: 100vh;
+  background: #fff;
+  position: relative;
+  bottom: 180px;
+  right: 350px;
+  text-align: center;
+}
+.gaiyou {
+  position: relative;
+}
+.child32 {
+  color: #c71585;
+  font-size: 15px;
+  font-family: "Gorditas", cursive;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 2500px;
+  right: 250px;
+  text-align: center;
+}
+.child33 {
+  color: gray;
+
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 2500px;
+  right: 235px;
+  text-align: center;
+}
+.gaiyou2 {
+  position: relative;
+  bottom: 2500px;
+  left: 235px;
+  text-align: center;
+}
+table {
+  width: 60%;
+  border-collapse: collapse;
+}
+table th,
+table td {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+table th {
+  font-weight: bold;
+  background-color: #dedede;
+}
+.saiyou {
+  position: relative;
+}
+.png10 {
+  width: 500px;
+  height: 200px;
+  z-index: 20;
+  position: relative;
+  bottom: 2400px;
+  left: 155px;
+  text-align: left;
+}
+.png11 {
+  width: 500px;
+  height: 200px;
+  z-index: 5;
+  position: relative;
+  bottom: 2400px;
+  left: 150px;
+  text-align: right;
+}
+.text1 {
+  color: white;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 2530px;
+  right: 235px;
+  text-align: center;
+}
+.text2 {
+  color: white;
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 2580px;
+  right: 235px;
+  text-align: right;
+}
+.text3 {
+  font-weight: bold;
+  z-index: 20;
+  position: relative;
+  bottom: 2450px;
+  left: 50px;
+  text-align: center;
+}
+.line {
+  margin-left: 100px;
+  width: 3px;
+  height: 100px;
+  background-color: #c71585;
+  position: relative;
+  bottom: 2450px;
+  left: 550px;
+  text-align: center;
+}
+.botan4 {
+  width: 200px;
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+  display: block;
+  padding: 10px 0 10px;
+  background: #c71585;
+  border-radius: 20px;
+  z-index: 5;
+  position: relative;
+  bottom: 2430px;
+  left: 550px;
+  text-align: center;
+}
+.mail.icon {
+  color: white;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 4px;
+  width: 15px;
+  height: 10px;
+  border-radius: 1px;
+  border: solid 1px currentColor;
+}
+.mail.icon:before {
+  content: "";
+  position: absolute;
+  left: 7px;
+  top: -4px;
+  width: 1px;
+  height: 10px;
+  background-color: currentColor;
+  -webkit-transform-origin: bottom;
+  transform-origin: bottom;
+  -webkit-transform: rotate(-54deg);
+  transform: rotate(-54deg);
+}
+.mail.icon:after {
+  content: "";
+  position: absolute;
+  left: 7px;
+  top: -4px;
+  width: 1px;
+  height: 10px;
+  background-color: currentColor;
+  -webkit-transform-origin: bottom;
+  transform-origin: bottom;
+  -webkit-transform: rotate(54deg);
+  transform: rotate(54deg);
+}
+.mail.icon {
+  z-index: 20;
+  position: relative;
+  bottom: 2460px;
+  left: 570px;
+  text-align: center;
+}
+.text4 {
+  color: gray;
+  font-weight: lighter;
+  z-index: 20;
+  position: relative;
+  bottom: 2390px;
+  left: 30px;
+  text-align: center;
+}
+.child35 {
+  background-color: #dcdcdc;
+  height: 50px;
+  width: 1200px;
+  z-index: 5;
+  position: relative;
+  bottom: 2450px;
+  left: 70px;
+  text-align: center;
+}
