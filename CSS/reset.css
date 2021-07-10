@@ -100,18 +100,3 @@ hr {
 input, select {
     vertical-align:middle;
 }
-またリセットCSSを読み込むコードを「index.html」に以下のように記述しましょう。必ずstyle.cssの上に記述しましょう。
-
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>COACHTECH</title>
-  <!-- 以下の内容を追加します -->
-  <link rel="stylesheet" href="css/reset.css" />
-  <link rel="stylesheet" href="css/style.css" />
-</head>
-<body>
-</body>
-</html>
