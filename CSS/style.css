@@ -52,8 +52,8 @@
   font-weight: lighter;
   position: relative;
   bottom: 500px;
-  left: 200px;
-  text-align: left;
+  left: 310px;
+  text-align: center;
 }
 .child7 {
   font-size: 40px;
@@ -70,7 +70,7 @@
   font-weight: bold;
   position: relative;
   bottom: 420px;
-  left: 250px;
+  left: 300px;
   text-align: left;
 }
 .child9 {
@@ -90,9 +90,9 @@
   font-family: "Gorditas", cursive;
   font-weight: lighter;
   position: relative;
-  bottom: 350px;
-  left: 50px;
-  text-align: left;
+  bottom: 355px;
+  left: 140px;
+  text-align: center;
 }
 .child11 {
   color: #20b2aa;
@@ -101,8 +101,8 @@
   font-weight: bold;
   position: relative;
   bottom: 60px;
-  right: 370px;
-  text-align: left;
+  right: 320px;
+  text-align: center;
 }
 
 .parent3 {
@@ -116,7 +116,7 @@
   font-weight: lighter;
   position: relative;
   bottom: 430px;
-  left: 300px;
+  left: 280px;
   text-align: left;
 }
 .child13 {
@@ -126,7 +126,7 @@
   font-weight: bold;
   position: relative;
   bottom: 450px;
-  left: 300px;
+  left: 280px;
   text-align: left;
 }
 
