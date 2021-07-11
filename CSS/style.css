@@ -269,7 +269,9 @@ li {
   left: 300px;
 }
 
-
+.parent9{
+  position: relative;
+}
 .child18 {
   color: #c71585;
   font-size: 15px;
@@ -286,8 +288,10 @@ li {
   font-size: 20px;
   font-weight: bold;
   z-index: 20;
-  position: absolute;
-  top: 200px;
+  position: relative;
+  bottom: 1150px;
+  right: 270px;
+  text-align: center;
 }
 .child20 {
   color: white;
@@ -474,6 +478,8 @@ img {
 }
 .card {
   width: 30%;
+  
+  background: white;
   cursor: pointer;
   border: 1px solid #e9eaea;
   border-radius: 3px;
